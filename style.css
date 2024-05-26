@@ -1,0 +1,10 @@
+body {
+  color: white;
+  background-color: black;
+}
+.navbar-brand {
+  margin-left: 200px;
+}
+.navbar-brand.display-50 {
+  font-size: 30px;
+}
